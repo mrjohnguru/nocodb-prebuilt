@@ -1,0 +1,13 @@
+{
+  "name": "nocodb-prebuilt",
+  "version": "1.0.0",
+  "description": "A prebuilt version of NocoDB for deployment on Render.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nocodb": "^0.100.0",
+    "express": "^4.17.1"
+  }
+}
